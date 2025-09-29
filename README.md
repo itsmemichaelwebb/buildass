@@ -1,2 +1,1 @@
-# buildass
-# Build ass is and assembly complier
+# A User-Friendly Shortcut for Compiling and Testing Assembly
